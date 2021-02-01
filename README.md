@@ -13,7 +13,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.remotesoul-hub.vercel.app/api/spotify-playing" alt="Remote Soul Spotify Playing" width="350" />](https://open.spotify.com/user/6neryan9?si=kAvuihx6Syq2uwFH8FEjUQ)
+[<img src="novatorem-drab-eight.vercel.app" alt="Remote Soul Spotify Playing" width="350" />](https://open.spotify.com/user/6neryan9?si=kAvuihx6Syq2uwFH8FEjUQ)
+
 
 ### Connect with me:
 
