@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://remotesoul-hub.vercel.app/api/spotify)](https://open.spotify.com/user/6neryan9)
+[![Spotify](https://novatorem.remotesoul-hub.vercel.app//api/spotify)](https://open.spotify.com/user/6neryan9)
 
 
 ### Connect with me:
