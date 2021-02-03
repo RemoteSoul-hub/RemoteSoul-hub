@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="RemoteSoul.com" width="22px" src="https://img.icons8.com/dusk/64/fa314a/domain.png" />][website]  
+[<img align="left" alt="RemoteSoul.com" width="22px" src="https://svgshare.com/i/Tgv.svg" />][website]  
 [<img align="left" alt="Remote Soul | Twitter" width="22px" src="https://img.icons8.com/fluent/144/000000/twitter.svg" />][twitter]
 [<img align="left" alt="Remote Soul | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
 
