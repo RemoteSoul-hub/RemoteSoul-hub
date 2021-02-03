@@ -18,8 +18,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="RemoteSoul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Remote Soul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="RemoteSoul.com" width="22px" src="https://visualpharm.com/assets/514/Website-595b40b65ba036ed117d43c7.svg" />][website]
+[<img align="left" alt="Remote Soul | Twitter" width="22px" src="https://img.icons8.com/fluent/144/000000/twitter.svg" />][twitter]
 [<img align="left" alt="Remote Soul | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
