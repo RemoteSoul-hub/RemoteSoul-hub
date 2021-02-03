@@ -5,7 +5,7 @@
 
 ## I'm a Web Developer, Designer and Freelancer!!
 
-- 🔭 I'm currently learning on FreeCodeCamp and TheOdinProject 
+- 🔭 My main learning ressources are Google, FreeCodeCamp and TheOdinProject 
 - 🌱 I’m currently learning everything, but mostly Vanilla Javascript and Node.js 
 - 👯 I’m looking to collaborate and help you out on your website endeavors! 
 - 🥅 2021 Goals: Be able to build my own javascript advanced projects!
@@ -19,8 +19,8 @@
 ### Connect with me:
 
 [<img align="left" alt="RemoteSoul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Remote Soul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Remote Soul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.remotesoul-hub.vercel.app/api?username=remotesoul-hub&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.remotesoul-hub.vercel.app/api?username=remotesoul-hub&show_icons=true&hide_border=true" />
 
 </details>
 ---
