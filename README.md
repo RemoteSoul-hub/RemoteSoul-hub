@@ -1,7 +1,7 @@
 ### Hi there, I'm Yahya - aka [Remote Soul][website] 👋
 
 [![Website](https://img.shields.io/badge/-Remote--Soul.com-blue?style=for-the-badge&logo=appveyor)](https://remotesoul-hub.github.io/OfficialWebsite/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/NeryanW?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=NeryanW)
+[![Twitter Follow](https://img.shields.io/twitter/follow/remotesoulhub?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=remotesoulhub)
 
 ## I'm a Web Developer, Designer and Freelancer!!
 
