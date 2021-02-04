@@ -47,5 +47,5 @@
 ---
 
 [website]: https://remotesoul-hub.github.io/OfficialWebsite/
-[twitter]: https://twitter.com/NeryanW
+[twitter]: https://twitter.com/remotesoulhub
 [instagram]: https://instagram.com/remotesoul_hub
