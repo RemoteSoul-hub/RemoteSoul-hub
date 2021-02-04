@@ -8,7 +8,7 @@
 - 🔭 My main learning ressources are Google, FreeCodeCamp and TheOdinProject 
 - 🌱 I’m currently learning everything, but mostly Vanilla Javascript and Node.js 
 - 👯 I’m looking to collaborate and help you out on your website endeavors! 
-- 🥅 2021 Goals: Be able to build my own javascript advanced projects!
+- 🥅 2021 Goals: Be able to build my own javascript advanced projects & Learn a framework! 
 - ⚡ Fun fact: I love to read non-fiction books and play video games! 🎮
 
 ### Spotify Playing 🎧
