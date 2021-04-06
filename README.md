@@ -5,16 +5,15 @@
 
 ## I'm a Web Developer, Designer and Freelancer!!
 
-- 🔭 My main learning ressources are Google, FreeCodeCamp and TheOdinProject 
-- 🌱 I’m currently learning everything, but mostly Vanilla Javascript and Node.js 
-- 👯 I’m looking to collaborate and help you out on your website endeavors! 
-- 🥅 2021 Goals: Be able to build my own javascript advanced projects & Learn a framework! 
+- 🔭 My main learning ressources are Google, FreeCodeCamp and TheOdinProject
+- 🌱 I’m currently learning everything, but mostly Vanilla Javascript and Node.js
+- 👯 I’m looking to collaborate and help you out on your website endeavors!
+- 🥅 2021 Goals: Be able to build my own javascript advanced projects & Learn a framework!
 - ⚡ Fun fact: I love to read non-fiction books and play video games! 🎮
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.remotesoul-hub.vercel.app//api/spotify)](https://open.spotify.com/user/6neryan9)
-
 
 ### Connect with me:
 
@@ -44,9 +43,8 @@
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.remotesoul-hub.vercel.app/api?username=remotesoul-hub&show_icons=true&hide_border=true" />
 
-</details>
----
+## </details>
 
 [website]: https://remotesoul-hub.github.io/OfficialWebsite/
 [twitter]: https://twitter.com/remotesoulhub
-[instagram]: https://instagram.com/remotesoul_hub
+[instagram]: https://instagram.com/remotesoul_official
