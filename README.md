@@ -43,6 +43,8 @@
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.remotesoul-hub.vercel.app/api?username=remotesoul-hub&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remotesoul-hub&layout=compact&theme=vue-dark)](https://github.com/remotesoul-hub/github-readme-stats)
+
 ## </details>
 
 [website]: https://remotesoul-hub.github.io/OfficialWebsite/
