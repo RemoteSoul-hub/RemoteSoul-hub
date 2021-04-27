@@ -1,12 +1,12 @@
 ### Hi there, I'm Yahya - aka [Remote Soul][website] 👋
 
 [![Website](https://img.shields.io/badge/-Remote--Soul.com-blue?style=for-the-badge&logo=appveyor)](https://remotesoul-hub.github.io/OfficialWebsite/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/remotesoulhub?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=remotesoulhub)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YT99Dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=yahyaT)
 
 ## I'm a Web Developer, Designer and Freelancer!!
 
-- 🔭 My main learning ressources are Google, FreeCodeCamp and TheOdinProject
-- 🌱 I’m currently learning everything, but mostly Vanilla Javascript and Node.js
+- 🔭 My main learning resources are Google, FreeCodeCamp, SoloLearn and TheOdinProject.
+- 🌱 I’m currently learning : Vanilla Javascript & React.
 - 👯 I’m looking to collaborate and help you out on your website endeavors!
 - 🥅 2021 Goals: Be able to build my own javascript advanced projects & Learn a framework!
 - ⚡ Fun fact: I love to read non-fiction books and play video games! 🎮
@@ -17,8 +17,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Remote Soul | Official" width="22px" src="https://svgshare.com/i/Tgv.svg" />][website]
-[<img align="left" alt="Remote Soul | Twitter" width="22px" src="https://img.icons8.com/fluent/144/000000/twitter.svg" />][twitter]
+[<img align="left" alt="Yahya Tahoune | Official" width="22px" src="https://svgshare.com/i/Tgv.svg" />][website]
+[<img align="left" alt="Yahya T | Twitter" width="22px" src="https://img.icons8.com/fluent/144/000000/twitter.svg" />][twitter]
 [<img align="left" alt="Remote Soul | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
@@ -48,5 +48,5 @@
 ## </details>
 
 [website]: https://remotesoul-hub.github.io/OfficialWebsite/
-[twitter]: https://twitter.com/remotesoulhub
+[twitter]: https://twitter.com/YT99Dev
 [instagram]: https://instagram.com/remotesoul_official
