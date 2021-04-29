@@ -38,14 +38,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Figma" width="26px" src="https://i.ibb.co/By6v32P/fig.png" />
 <br />
-![](https://visitor-badge.laobi.icu/badge?page_id=RemoteSoul-hub.RemoteSoul-hub)
 <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.remotesoul-hub.vercel.app/api?username=remotesoul-hub&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.remotesoul-hub.vercel.app/api?username=remotesoul-hub&theme=radical&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remotesoul-hub&layout=compact&theme=vue-dark)](https://github.com/remotesoul-hub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remotesoul-hub&layout=compact&theme=radical)](https://github.com/remotesoul-hub/github-readme-stats)
 
 ## </details>
 
