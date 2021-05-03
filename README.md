@@ -6,7 +6,7 @@
 ## I'm a Web Developer, Designer and Freelancer!!
 
 - 🔭 My main learning resources are Google, Youtube, FreeCodeCamp, SoloLearn and TheOdinProject.
-- 🌱 I’m currently learning : Vanilla Javascript & React.
+- 🌱 I’m currently learning : React!
 - 👯 I’m looking to collaborate and help you out on your website endeavors!
 - 🥅 2021 Goals: Be able to build my own javascript advanced projects & Learn a framework!
 - ⚡ Fun fact: I love to read non-fiction books and play video games! 🎮
