@@ -6,7 +6,7 @@
 ## I'm a Web Developer, Designer and Freelancer!!
 
 - 🔭 My main learning resources are Google, Youtube, FreeCodeCamp, SoloLearn and TheOdinProject.
-- 🌱 I’m currently learning : React!
+- 🌱 I’m currently learning : Angular, Cofluence and Jira!
 - 👯 I’m looking to collaborate and help you out on your website endeavors!
 - 🥅 2021 Goals: Be able to build my own javascript advanced projects & Learn a framework!
 - ⚡ Fun fact: I love to read non-fiction books and play video games! 🎮
@@ -29,6 +29,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="ASP.net" width="26px" src="http://blog.soat.fr/wp-content/uploads/2015/11/asp.net_.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
