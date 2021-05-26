@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/-Yahya--Tahoune.com-blue?style=for-the-badge&logo=appveyor)](https://remotesoul-hub.github.io/OfficialWebsite/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YT99Dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=YT99Dev)
 
-## I'm a Web Developer, Designer and Freelancer!!
+## I'm a Web Developer, Designer and Freelancer!
 
 - 🔭 My main learning resources are Google, Youtube, FreeCodeCamp, SoloLearn and TheOdinProject.
 - 🌱 I’m currently learning : Angular, Cofluence and Jira!
