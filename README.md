@@ -1,6 +1,6 @@
 ### Hi there, I'm Yahya Tahoune 👋
 
-[![Website](https://img.shields.io/badge/-Yahya--Tahoune.com-blue?style=for-the-badge&logo=appveyor)](https://remotesoul-hub.github.io/OfficialWebsite/)
+[![Website](https://img.shields.io/badge/-Yahya--Tahoune.com-blue?style=for-the-badge&logo=appveyor)](https://yahya-tahoune.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YT99Dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=YT99Dev)
 
 ## I'm a Web Developer, Designer and Freelancer!
@@ -51,6 +51,5 @@
 
 ## </details>
 
-[website]: https://remotesoul-hub.github.io/OfficialWebsite/
+[website]: https://yahya-tahoune.netlify.app/
 [twitter]: https://twitter.com/YT99Dev
-[instagram]: https://instagram.com/remotesoul_official
