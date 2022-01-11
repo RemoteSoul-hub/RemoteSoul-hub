@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/badge/-Yahya--Tahoune.com-blue?style=for-the-badge&logo=appveyor)](https://yahya-tahoune.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YT99Dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=YT99Dev)
 
-## I'm a Web Developer, Designer and Freelancer!
+## I'm a flexible Web Developer, IT Consultant and your solution finder!
 
-- 🔭 My main learning resources are Google, Youtube, FreeCodeCamp, SoloLearn and TheOdinProject.
-- 🌱 I’m currently learning Node and Express!
+- 🔭 My main learning resource is Youtube.
+- 🌱 I’m currently learning DevOps and Backends.
 - 👯 I’m looking to collaborate and help you out on your web app endeavors!
-- 🥅 2021 Goals: Be able to build my own javascript advanced projects & master React!
-- ⚡ Fun fact: I love to read non-fiction books and play video games! 🎮
+- 🥅 2022 Goals: Solidify my NextJS knowledge, work on my online presence and network better.
+- ⚡ Fun fact: I love MCU Movies and horror games! 🎮
 
 ### Spotify Playing 🎧
 
@@ -32,18 +32,17 @@
 <img align="left" alt="Bootstrap 5" width="26px" src="https://styleguide.joblocal.de/assets/img/bootstrap-stack.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="Angular" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
 <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
+<img align="left" alt="NextJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/next.svg" />
 <img align="left" alt="WordPress" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png" />
-<img align="left" alt="ASP.net" width="26px" src="http://blog.soat.fr/wp-content/uploads/2015/11/asp.net_.jpg" />
-<img align="left" alt="FireBase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MSSQL Server" width="26px" src="https://w7.pngwing.com/pngs/278/609/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe.png" />
+<img align="left" alt="Docker" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
+<img align="left" alt="PM2" width="26px" src="https://cdn.opsmatters.com/sites/default/files/logos/pm2-thumb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/LPKMpGL/kisspng-github-protocol-buffers-computer-software-reposito-5b0f05cf262313-3881665315277111831562.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Figma" width="26px" src="https://i.ibb.co/By6v32P/fig.png" />
 <br />
 <br />
 <details>
