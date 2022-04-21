@@ -11,6 +11,9 @@
 - 🥅 2022 Goals: Solidify my NextJS knowledge, work on my online presence and network better.
 - ⚡ Fun fact: I love Phonk music and horror games! 🎮
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RemoteSoul-Hub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.remotesoul-hub.vercel.app//api/spotify)](https://open.spotify.com/user/6neryan9)
