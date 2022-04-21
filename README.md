@@ -1,15 +1,15 @@
 ### Hi there, I'm Yahya Tahoune 👋
 
-[![Website](https://img.shields.io/badge/-Yahya--Tahoune.com-blue?style=for-the-badge&logo=appveyor)](https://yahya-tahoune.netlify.app/)
+[![Website](https://img.shields.io/badge/-Yahya--Tahoune.com-blue?style=for-the-badge&logo=appveyor)](https://yahyatahoune.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YT99Dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=YT99Dev)
 
 ## I'm a flexible Web Developer, IT Consultant and your solution finder!
 
-- 🔭 My main learning resource is Youtube.
-- 🌱 I’m currently learning DevOps and Backends.
-- 👯 I’m looking to collaborate and help you out on your web app endeavors!
+- 🔭 Reach out to me here : yahya.tahoune@gmail.com
+- 🌱 Problem solving skills are key.
+- 👯 I’m available to collaborate and help you out on your web app endeavors!
 - 🥅 2022 Goals: Solidify my NextJS knowledge, work on my online presence and network better.
-- ⚡ Fun fact: I love MCU Movies and horror games! 🎮
+- ⚡ Fun fact: I love Phonk music and horror games! 🎮
 
 ### Spotify Playing 🎧
 
@@ -41,7 +41,6 @@
 <img align="left" alt="Docker" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <img align="left" alt="PM2" width="26px" src="https://cdn.opsmatters.com/sites/default/files/logos/pm2-thumb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/LPKMpGL/kisspng-github-protocol-buffers-computer-software-reposito-5b0f05cf262313-3881665315277111831562.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
@@ -54,5 +53,5 @@
 
 ## </details>
 
-[website]: https://yahya-tahoune.netlify.app/
+[website]: https://yahya-tahoune.com/
 [twitter]: https://twitter.com/YT99Dev
