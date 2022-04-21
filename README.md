@@ -56,5 +56,5 @@
 
 ## </details>
 
-[website]: https://yahya-tahoune.com/
+[website]: https://yahyatahoune.com/
 [twitter]: https://twitter.com/YT99Dev
