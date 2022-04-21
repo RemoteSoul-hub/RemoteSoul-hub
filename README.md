@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love Phonk music and horror games! 🎮
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RemoteSoul-Hub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RemoteSoul-Hub&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Spotify Playing 🎧
 
